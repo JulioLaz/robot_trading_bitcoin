@@ -11,5 +11,5 @@ El resultado se visualiza así:
 ![image](https://github.com/JulioLaz/robot_trading_bitcoin/assets/108642139/6861f3e1-feee-4ea4-bd0c-c558c2390b91)
 
 
-![image](https://github.com/JulioLaz/robot_trading_bitcoin/assets/108642139/573e9095-0be5-4fba-b6dc-d59dbe6e40ca)
+![image](https://github.com/JulioLaz/robot_trading_bitcoin/assets/108642139/3d8c7bcf-6129-4374-931f-b8cb517cc535)
 
